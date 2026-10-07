@@ -31,6 +31,21 @@ The English version retains the full translated content and uses the user-provid
 
 UK-to-Korea personal-use supplement and food shipping, including import procedures, the combined six-bottle example, duty-value conditions, food-specific criteria, blocked ingredient checks, preparation and packing information, and five FAQs. See [the design notes](SUPPLEMENTS-FOOD-DESIGN-NOTES.md).
 
+## Publish the responsive preview with GitHub Pages
+
+The pages are ready for static hosting. GitHub Pages is not enabled yet: the connected GitHub integration returned `403 Resource not accessible by integration` when asked to create the Pages site. Repository access and pushing files work, but changing the Pages setting requires the repository owner to perform this step.
+
+1. Open [the repository's Pages settings](https://github.com/KHESED6537/WLE_Contents/settings/pages).
+2. Under **Build and deployment**, select **Deploy from a branch**.
+3. Select **main** and **/ (root)**, then click **Save**.
+4. Wait for GitHub's Pages deployment to finish. The Pages settings will show the published site address.
+
+Once that deployment succeeds, the responsive English preview will be at:
+
+`https://khesed6537.github.io/WLE_Contents/en/return-home-shipping.html`
+
+This address is not live until Pages is enabled and deployed. The repository includes `.nojekyll` so GitHub serves these static files without Jekyll processing. No build command, dependency installation, or custom domain is needed. The preview remains marked `noindex, nofollow` and publishing it here does not modify `worldlinkexp.com`.
+
 ## Preview locally
 
 Download either HTML file and open it in a browser to try section navigation, the mobile menu, and expandable FAQs. To download a page from GitHub, use the file's download button or save its raw contents.

@@ -10,6 +10,8 @@ The [complete English page](return-home-shipping.html) applies the company's sup
 
 Download `return-home-shipping.html` and open it in a browser. The Korean-language link opens the existing Korean page when the repository files are kept together. For local development, serve the repository root and visit `/en/return-home-shipping.html`.
 
+For a live responsive preview, follow the [GitHub Pages setup instructions](../README.md#publish-the-responsive-preview-with-github-pages). The page address becomes available after the repository owner enables Pages for `main` and `/ (root)` and GitHub finishes deployment.
+
 ## Confirmed colour palette
 
 | Colour | Hex | Main use |
