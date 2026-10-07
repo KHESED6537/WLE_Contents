@@ -1,0 +1,27 @@
+WORLDLINK EXPRESS — RETURN-HOME SHIPPING PAGE DESIGN
+
+This is a standalone design concept for the Korean 이사화물 · 귀국짐 service page. It does not change the live website.
+
+To review:
+• previews/Worldlink-Return-Home-Page.pdf — readable eight-page visual review of the complete content.
+• previews/desktop-full.png — the complete desktop page as a single image.
+• previews/mobile-full.png — the complete mobile page as a single image.
+• previews/desktop-preview.png and previews/mobile-preview.png — the opening screen on each device.
+• index.html — download and open in a browser to try section links and expandable FAQs. No installation or project access is needed.
+
+Design direction:
+Warm cream, deep teal and terracotta, with an original moving-box illustration. Desktop uses a sticky contents menu; mobile uses section shortcuts and a persistent enquiry button. The logo treatment and colours are provisional: the current website could not be inspected because its domain was blocked by this environment's network settings.
+
+Content:
+Uses the supplied Korean draft and the two attached audits as reference. The transport comparison, tax qualifications, documents, delivery boundaries, cost factors and all four FAQs are retained. £880 is visibly labelled an illustrative assumption, not a Worldlink price. No reviews, delivery guarantees, contact numbers or downloadable customs forms have been invented.
+
+Enquiry buttons:
+Point to https://www.worldlinkexp.com/contact, a route identified in the supplied audit. The destination could not be checked from this environment. The prototype does not submit enquiries itself.
+
+Future website implementation:
+A suggested page address is /services/return-home-shipping. This is a proposal, not an existing or published URL. Replace the concept logo and palette with the approved site assets as needed, confirm the enquiry destination, and connect the page from the service listing.
+
+The standalone HTML contains the full Korean content, a unique Korean title, meta description, Open Graph title/description and matching FAQ structured data. It deliberately has noindex/nofollow because it is a review prototype. For production, remove that prototype directive, set the final canonical and sharing URL/image, add the final route to the site's sitemap, and ensure the site serves the content in its initial HTML response. This page concept does not implement the audit's separate site-wide infrastructure or analytics recommendations. FAQ structured data does not guarantee a search result enhancement.
+
+Verified:
+Layout widths 320, 375, 390, 600, 768, 820, 1024 and 1440 pixels without horizontal overflow; mobile menu and Escape key; anchor navigation and active contents links; FAQ expansion with mouse and keyboard; static HTML content available without JavaScript.
