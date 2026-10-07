@@ -11,6 +11,8 @@ A collection of standalone, responsive Korean service-page designs for Worldlink
 
 UK-to-Korea return-home belongings and household shipping, including air/LCL/FCL comparisons, packing and delivery boundaries, customs-exemption qualifications, documents, cost factors, an illustrative £880 calculation, four FAQs, and an enquiry checklist. See [the design notes](DESIGN-NOTES.txt).
 
+The [complete English content translation](translations/en/return-home-shipping.md) is available separately for the English-speaking developer, with all paragraphs, tables, FAQs, and qualifications retained.
+
 ## 영양제 · 식품
 
 - [Interactive page](supplements-food.html)
